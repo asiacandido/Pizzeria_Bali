@@ -19,6 +19,56 @@
 
 }
 
+.headerImg{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.headerText{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+        font-size: 50px;
+        letter-spacing: 8px;
+        font-family: "Montserrat", sans-serif;
+        text-shadow: #AF3925 5px 0 10px;
+}
+
+/* .fade-in{
+    animation-name: fadeIn;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    
+}
+
+@keyframes fadeIn {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+
+    }
+} */
+
+.pulse-animation{
+    animation: pulse-animate 10s infinite;
+    -o-animation-direction: alternate;
+    animation-timing-function: linear;
+    
+}
+
+@keyframes pulse-animate {
+    0%{transform: scale(1);}
+    50%{transform: scale(0.9);}
+    100%{transform: scale(1);}
+}
+
 
 a.nav-link:hover{
     color: #AF3925;

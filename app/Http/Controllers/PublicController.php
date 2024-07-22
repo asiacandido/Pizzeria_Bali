@@ -11,8 +11,8 @@ class PublicController extends Controller
         return view('welcome');
     }
 
-    function aboutus() {
-        return view('aboutus');
+    function menu() {
+        return view('menu');
     }
 };
 

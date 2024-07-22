@@ -1,7 +1,9 @@
 .colorNav{ 
     background-color: #ECC273;
+
     padding: 0px;
-    color:#925B32; 
+    padding-bottom: 0px;
+    padding-top: 0px;
     font-weight: light;
     font-size: 20px;
     font-family: "Montserrat", sans-serif;
@@ -9,15 +11,18 @@
 
 }
 
+
 .imgHeader{
     height: 900px;
     width: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    object-fit: cover;
     
 
 }
+
 
 .headerImg{
     position: relative;
@@ -30,6 +35,46 @@
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
+  
+}
+
+@media (max-width: 1200px) {
+    .imgHeader {
+        height: 700px; /* Adjust height for medium-sized screens */
+    }
+    .headerText {
+        font-size: 1.8em; /* Slightly smaller font size */
+    }
+}
+
+@media (max-width: 992px) {
+    .imgHeader {
+        height: 600px; /* Adjust height for smaller screens */
+    }
+    .headerText {
+        font-size: 1.6em; /* Further reduce font size */
+        top: 45%; /* Adjust position if needed */
+    }
+}
+
+@media (max-width: 768px) {
+    .imgHeader {
+        height: 500px; /* Adjust height for mobile screens */
+    }
+    .headerText {
+        font-size: 1.4em; /* Further reduce font size */
+        top: 50%; /* Adjust position if needed */
+    }
+}
+
+@media (max-width: 576px) {
+    .imgHeader {
+        height: 400px; /* Adjust height for very small screens */
+    }
+    .headerText {
+        font-size: 1.2em; /* Further reduce font size */
+        top: 55%; /* Adjust position if needed */
+    }
 }
 
 h1{
@@ -37,6 +82,19 @@ h1{
         letter-spacing: 8px;
         font-family: "Montserrat", sans-serif;
         text-shadow: #AF3925 5px 0 10px;
+}
+
+ h3, h5, h6{
+    font-family: "Montserrat", sans-serif;
+    font-style: oblique;
+    
+}
+
+h2{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: oblique;
+    color:  #AF3925
 }
 
 /* .fade-in{
@@ -70,12 +128,35 @@ h1{
 }
 
 
-a.nav-link:hover{
-    color: #AF3925;
+a.nav-link{
+    color:  #AF3925;
+    font-weight: 450;
     
 }
 
-footer {
-    color:  #AF3925
+
+a.nav-link:hover{
+    color: #925B32;
 }
 
+
+.sottolinea{
+    text-decoration: underline;
+   ;
+    
+
+}
+
+footer {
+    color:  #AF3925;
+}
+
+
+h4{
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 23px;
+
+
+  }

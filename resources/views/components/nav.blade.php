@@ -16,7 +16,7 @@
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="#">Contacts</a>
+            <a class="nav-link" href="#contact">Contacts</a>
           </li>
         
          
@@ -25,3 +25,6 @@
       </div>
     </div>
   </nav>
+
+
+  {{-- <li><a href="#contact">Contact</a></li> --}}

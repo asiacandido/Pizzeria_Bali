@@ -51,8 +51,10 @@
         <!-- Grid column -->
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Puglia Mia
+          <h6 class="text-uppercase fw-bold mb-4 mx-0 text-center">
+            <i class="fas fa-gem me-3"></i>Puglia Mia 
+            <h6 class="text-center">Pizzeria & Restaurant</h6>
+       
           </h6>
           <p>
             
@@ -63,11 +65,12 @@
         <!-- Grid column -->
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
+          <h6 class="text-uppercase text-center fw-bold mb-4">
             Location
           </h6>
-          <p>
-            Gili Air
+          <p  class="text-center">
+            Gili Air <br>
+            Unnamed Rd, Gili Indah, Pemenang, North Lombok Regency, West Nusa Tenggara 83352, Indonesia
           </p>
          
         </div>
@@ -76,11 +79,12 @@
         <!-- Grid column -->
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
+          <h6 class="text-uppercase fw-bold mb-4 text-center">
             Opening Hours
           </h6>
-          <p>
-           Monday - Sunday
+          <p class="text-center">
+           Monday - Sunday <br>
+           10.00 - 24.00
           </p>
         
         </div>
@@ -89,13 +93,15 @@
         <!-- Grid column -->
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">Contacts</h6>
+          <div id="contact">
+          <h6 class="text-uppercase fw-bold mb-4 text-center">Contact Us</h6>
+          </div>
         
-            <i class="fas fa-envelope me-3"></i>
-            pugliamia@info.com
+            <i class="fas fa-envelope text-center"></i>
+           <p class="text-center"> pugliamia@info.com
           </p>
-          <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-          <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+          <p class="text-center"><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
+          <p class="text-center"><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
         </div>
         <!-- Grid column -->
       </div>

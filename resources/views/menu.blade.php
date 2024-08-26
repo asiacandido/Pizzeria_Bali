@@ -1,6 +1,6 @@
 <x-layout>
-
-<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top p-0">
+  
+  <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top p-0">
     <div class="container-fluid colorNav p-0 mb-0">
       
       <a class="navbar-brand" href="#"><img src="/img/logo3.png" alt="" height="200px"></a>
@@ -12,7 +12,7 @@
           <li class="nav-item">
             <a class="nav-link" aria-current="page" href="{{route('home')}}">Home</a>
           </li>
-         
+          
           <li class="nav-item">
             <a class="nav-link" href="{{route('menu')}}">Menu</a>
           </li>
@@ -20,98 +20,205 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Contacts</a>
           </li>
-        
-         
+          
+          
         </ul>
         
       </div>
     </div>
   </nav>
-
+  
   <header>
     <div class="headerImg ">
-        <img src="/img/header3.jpeg" alt="" class="imgHeader">
-        <h1 class="headerText pulse-animation text-center ">Pizzeria & Restaurant</h1>
+      <img src="/img/header3.jpeg" alt="" class="imgHeader">
+      <h1 class="headerText pulse-animation text-center ">Pizzeria & Restaurant</h1>
     </div>
-</header>
-
-<div class="text-center mt-5 menu">SOURDOUGH PIZZA</div>
- <div class="container-fluid">
-  <div class="row justify-content-center mt-5 ms-0 me-0">
+  </header>
+  
+  
+  
+  
+  <div class="text-center mt-5 menu">STARTER</div>
+  <div class="container-fluid">
+    <div class="row justify-content-center mt-5 ms-0 me-0">
       <!-- Colonna 1 -->
       <div class="col-12 col-md-3 custom-margin ">
-          <div class="row text-center">
-              <div class="col-12">
-                <h3 class="pizze">Margherita</h3>
-                <h4>tomato sauce, mozzarella, basil, extravirgin olive oil</h4>
-              </div>
-              
-              
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Puglia Mia</h3>
-                <h4>mozzarella, smoked cured ham, fried aubergine, parmesan cheese, burratina on top - no tomato sauce</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Prosciutto e Funghi</h3>
-                <h4>tomato sauce, mozzarella, smoked ham, mushrooms</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze"></h3>
-              </div>
-              <div class="col-12">
-                <h3 class="pizze">Imperiale</h3>
-                <h4>tomato sauce, mozzarella, cured ham, parmesan cheese</h4>
-              </div>
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Bruschetta</h3>
+            <h4>cherry tomatoes, burrata, extravirgin olive oil, oregano</h4>
           </div>
+          
+          
+        </div>
       </div>
       <!-- Colonna 2 -->
       <div class="col-12 col-md-3 custom-margin">
-          <div class="row text-center">
-            
-              <div class="col-12">
-                <h3 class="pizze">Marinara</h3>
-                <h4>tomato sauce, garlic, oregano, anchovies, extravirgin olive oil</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Say "Cheese"</h3>
-                <h4>mozzarella, gorgonzola, taleggio, parmesan cheese</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Parmigiana</h3>
-                <h4>tomato sauce, mozzarella, fried aubergine, parmesan, rucola</h4>
-              </div>
-              <div class="col-12 mt-5 ">
-                <h3 class="pizze">Calzone</h3>
-                <h4>tomato sauce, mozzarella, smoked ham, mushrooms</h4>
-              </div>
-              
+        <div class="row text-center">
+          
+          <div class="col-12">
+            <h3 class="pizze">Caprese</h3>
+            <h4>mozzarella, tomatoes, oregano, extravirgin olive oil</h4>
           </div>
+          
+          
+          
+          
+        </div>
       </div>
       <!-- Colonna 3 -->
       <div class="col-12 col-md-3 custom-margin">
-          <div class="row text-center">
-              <div class="col-12">
-                <h3 class="pizze">Diavola</h3>
-                <h4>tomato sauce, mozzarella, spicy salami, oregano</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Contadina</h3>
-                <h4>charry tomato sauce, fresh charry tomatoes, green pesto, shredded mozzarella to go, basil</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Stay Healthy</h3>
-                <h4>tomato sauce, mozzarella, grilled zucchini, grilled aubergine, basil, extravirgin olive oil</h4>
-              </div>
-              <div class="col-12 mt-5">
-                <h3 class="pizze">Capricciosa</h3>
-                <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives</h4>
-              </div>
-              
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Pittule</h3>
+            <h4>crispy fried pizza dough bites</h4>
           </div>
+          
+          
+        </div>
       </div>
+    </div>
   </div>
-</div>
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="text-center mt-5 menu">SOURDOUGH PIZZA</div>
+  <div class="container-fluid">
+    <div class="row justify-content-center mt-5 ms-0 me-0">
+      <!-- Colonna 1 -->
+      <div class="col-12 col-md-3 custom-margin ">
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Margherita</h3>
+            <h4>tomato sauce, mozzarella, basil, extravirgin olive oil</h4>
+          </div>
+          
+          
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Puglia Mia</h3>
+            <h4>mozzarella, smoked cured ham, fried aubergine, parmesan cheese, burratina on top - no tomato sauce</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Prosciutto e Funghi</h3>
+            <h4>tomato sauce, mozzarella, smoked ham, mushrooms</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze"></h3>
+          </div>
+          <div class="col-12">
+            <h3 class="pizze">Imperiale</h3>
+            <h4>tomato sauce, mozzarella, cured ham, parmesan cheese</h4>
+          </div>
+          {{-- <div class="col-12 mt-5">
+            <h3 class="pizze">Caprese</h3>
+            <h4>tomato sauce, mozzarella, cured ham, parmesan cheese</h4>
+          </div> --}}
+        </div>
+      </div>
+      <!-- Colonna 2 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          
+          <div class="col-12">
+            <h3 class="pizze">Marinara</h3>
+            <h4>tomato sauce, garlic, oregano, anchovies, extravirgin olive oil</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Say "Cheese"</h3>
+            <h4>mozzarella, gorgonzola, taleggio, parmesan cheese</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Parmigiana</h3>
+            <h4>tomato sauce, mozzarella, fried aubergine, parmesan, rucola</h4>
+          </div>
+          <div class="col-12 mt-5 ">
+            <h3 class="pizze">Panzerotto</h3>
+            <h4>a folded Italian pizza filled with a delicious mix of mozzarella cheese, savory tomato, smoked ham, mushrooms</h4>
+          </div>
+          {{-- <div class="col-12 mt-5 ">
+            <h3 class="pizze">Calzone</h3>
+            <h4>tomato sauce, mozzarella, smoked ham, mushrooms</h4>
+          </div>
+           --}}
+        </div>
+      </div>
+      <!-- Colonna 3 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Diavola</h3>
+            <h4>tomato sauce, mozzarella, spicy salami, oregano</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Contadina</h3>
+            <h4>charry tomato sauce, fresh cherry tomatoes, green pesto, shredded mozzarella to go, basil</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Stay Healthy</h3>
+            <h4>tomato sauce, mozzarella, grilled zucchini, grilled aubergine, basil, extravirgin olive oil</h4>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Capricciosa</h3>
+            <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives</h4>
+          </div>
+          {{-- <div class="col-12 mt-5">
+            <h3 class="pizze">Capricciosa</h3>
+            <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives</h4>
+          </div> --}}
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center mt-5 menu">DESSERTS</div>
+  <div class="container-fluid">
+    <div class="row justify-content-center mt-5 ms-0 me-0">
+      <!-- Colonna 1 -->
+      <div class="col-12 col-md-3 custom-margin ">
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Tiramisù</h3>
+            <h4>italian savoiardi biscuits dipped in rich espresso with creamy mixture of mascarpone cheese and whipped eggs. Finished with a dusting of cocoa powder </h4>
+          </div>
+          
+          
+        </div>
+      </div>
+      <!-- Colonna 2 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          
+          <div class="col-12">
+            <h3 class="pizze">Fried Gnocchi with Nutella</h3>
+            <h4>crispy fried pizza dough bites served with a rich Nutella sauce, creating a delightful mix of sweet and savory flavors.</h4>
+          </div>
+          
+          
+          
+          
+        </div>
+      </div>
+      <!-- Colonna 3 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Pizza with Nutella</h3>
+            <h4>A sweet twist on the classic pizza, featuring a crispy pizza crust topped generously with Nutella, perfect for dessert lovers.</h4>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
 </x-layout>

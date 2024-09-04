@@ -69,7 +69,8 @@
         <div class="col-5 col-md-3 text-center flex-column d-flex justify-content-center">
 
             <h2>Puglia Mia</h2>
-            <h3 class="mt-3 ">Mangia e Bevi</h3>
+            <h3 class="mt-3 ">Pizzeria & Restaurant</h3>
+            <h3 class="mt-3 ">Gili Air</h3>
            
         </div>
 
@@ -102,7 +103,7 @@
                      <br>
                      <br>
                      
-                     <br>Join us at our cozy restaurant, where every dish is crafted with love and passion, transporting you straight to Italy with every bite. We can't wait to share our dream with you! </h4>
+                     <br>Join us at our cozy restaurant, where every dish is crafted with love and passion, transporting you straight to Italy with every bite!</h4>
 
             </div>
         </div>

@@ -98,7 +98,7 @@
           </div>
         
             <i class="fas fa-envelope text-center"></i>
-           <p class="text-center"> pugliamia@info.com
+           <p class="text-center"> pugliamiabali@gmail.com
           </p>
           <p class="text-center"><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
           <p class="text-center"><i class="fas fa-print me-3"></i> + 01 234 567 89</p>

@@ -3,12 +3,12 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top p-0">
     <div class="container-fluid colorNav p-0 mb-0">
       
-      <a class="navbar-brand" href="#"><img src="/img/logo3.png" alt="" height="200px"></a>
+      <a class="navbar-brand" href="#"><img src="/img/logo_ultimo.png" alt="" height="200px"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
             <a class="nav-link" aria-current="page" href="{{route('home')}}">Home</a>
           </li>
@@ -18,15 +18,23 @@
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="#">Contacts</a>
+            <a class="nav-link" href="#contact">Contacts</a>
           </li>
-          
-          
         </ul>
         
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0"> <!-- New UL for icons -->
+          <li class="nav-item">
+            <a href="https://www.instagram.com/pugliamiabali/"><i class="bi bi-instagram"></i></a>
+          </li>
+
+          <li class="nav-item">
+            <a href=""><i class="bi bi-geo-alt-fill"></i></a>
+          </li>
+        </ul>
       </div>
     </div>
-  </nav>
+</nav>
+
   
   <header>
     <div class="headerImg ">
@@ -46,7 +54,8 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Bruschetta</h3>
-            <h4>cherry tomatoes, burrata, extravirgin olive oil, oregano</h4>
+            <h4>roasted bread topped with cherry tomatoes, burrata, extravirgin olive oil, oregano</h4>
+            <h5 class="text-center mt-3">55k</h5>
           </div>
           
           
@@ -57,8 +66,10 @@
         <div class="row text-center">
           
           <div class="col-12">
-            <h3 class="pizze">Caprese</h3>
-            <h4>mozzarella, tomatoes, oregano, extravirgin olive oil</h4>
+            <h3 class="pizze">Bruschetta Puglia Mia</h3>
+            <h4>roasted bread topped with mozzarella, tomatoes, burrata, parma ham, wild rocket, extravirgin olive oil, oregano
+            </h4>
+            <h5 class="text-center mt-3">65k</h5>
           </div>
           
           
@@ -70,8 +81,9 @@
       <div class="col-12 col-md-3 custom-margin">
         <div class="row text-center">
           <div class="col-12">
-            <h3 class="pizze">Pittule</h3>
-            <h4>crispy fried pizza dough bites</h4>
+            <h3 class="pizze">Caprese</h3>
+            <h4>mozzarella, tomatoes, extravirgin olive oil , oregano</h4>
+            <h5 class="text-center mt-3">55k</h5>
           </div>
           
           
@@ -96,25 +108,32 @@
       <div class="col-12 col-md-3 custom-margin ">
         <div class="row text-center">
           <div class="col-12">
-            <h3 class="pizze">Margherita</h3>
-            <h4>tomato sauce, mozzarella, basil, extravirgin olive oil</h4>
+            <h3 class="pizze">Marinara</h3>
+            <h4>tomato sauce, garlic, oregano, anchovies, extravirgin olive oil, basil
+            </h4>
+            <h5 class="text-center mt-3">60k</h5>
           </div>
           
           
           <div class="col-12 mt-5">
-            <h3 class="pizze">Puglia Mia</h3>
-            <h4>mozzarella, smoked cured ham, fried aubergine, parmesan cheese, burratina on top - no tomato sauce</h4>
+            <h3 class="pizze">Parmigiana</h3>
+            <h4>tomato sauce, mozzarella, fried aubergine, parmesan, wild rocket, extravirgin olive oil, basil</h4>
+            <h5 class="text-center mt-3">90k</h5>
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Prosciutto e Funghi</h3>
-            <h4>tomato sauce, mozzarella, smoked ham, mushrooms</h4>
+            <h4>tomato sauce, mozzarella, smoked ham, mushrooms, extravirgin olive oil, basil</h4>
+            <h5 class="text-center mt-3">110k</h5>
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze"></h3>
           </div>
           <div class="col-12">
-            <h3 class="pizze">Imperiale</h3>
-            <h4>tomato sauce, mozzarella, cured ham, parmesan cheese</h4>
+            <h3 class="pizze">Panzerotto
+            </h3>
+            <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives
+            </h4>
+            <h5 class="text-center mt-3">100k</h5>
           </div>
           {{-- <div class="col-12 mt-5">
             <h3 class="pizze">Caprese</h3>
@@ -127,20 +146,24 @@
         <div class="row text-center">
           
           <div class="col-12">
-            <h3 class="pizze">Marinara</h3>
-            <h4>tomato sauce, garlic, oregano, anchovies, extravirgin olive oil</h4>
+            <h3 class="pizze">Margherita</h3>
+            <h4>tomato sauce, mozzarella, extravirgin olive oil, basil</h4>
+            <h5 class="text-center mt-3">70k</h5>
           </div>
           <div class="col-12 mt-5">
-            <h3 class="pizze">Say "Cheese"</h3>
-            <h4>mozzarella, gorgonzola, taleggio, parmesan cheese</h4>
+            <h3 class="pizze">Contadina</h3>
+            <h4>cherry tomato sauce, fresh cherry tomatoes, green pesto, shredded mozzarella, extravirgin olive oil, basil</h4>
+            <h5 class="text-center mt-3">100k</h5>
           </div>
           <div class="col-12 mt-5">
-            <h3 class="pizze">Parmigiana</h3>
-            <h4>tomato sauce, mozzarella, fried aubergine, parmesan, rucola</h4>
+            <h3 class="pizze">Imperiale</h3>
+            <h4>tomato sauce, mozzarella, parma ham, parmesan flakes, wild rocket, cherry tomato, extravirgin olive oil</h4>
+            <h5 class="text-center mt-3">115k</h5>
           </div>
           <div class="col-12 mt-5 ">
-            <h3 class="pizze">Panzerotto</h3>
-            <h4>a folded Italian pizza filled with a delicious mix of mozzarella cheese, savory tomato, smoked ham, mushrooms</h4>
+            <h3 class="pizze">Puglia Mia</h3>
+            <h4>mozzarella, fried aubergine, parmesan flakes, burratina on top , extravirgin olive oil, basil - no tomato sauce</h4>
+            <h5 class="text-center mt-3">115k</h5>
           </div>
           {{-- <div class="col-12 mt-5 ">
             <h3 class="pizze">Calzone</h3>
@@ -154,19 +177,25 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Diavola</h3>
-            <h4>tomato sauce, mozzarella, spicy salami, oregano</h4>
-          </div>
-          <div class="col-12 mt-5">
-            <h3 class="pizze">Contadina</h3>
-            <h4>charry tomato sauce, fresh cherry tomatoes, green pesto, shredded mozzarella to go, basil</h4>
+            <h4>tomato sauce, mozzarella, spicy salami, extravirgin olive oil, basil
+            </h4>
+            <h5 class="text-center mt-3">80k</h5>
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Stay Healthy</h3>
-            <h4>tomato sauce, mozzarella, grilled zucchini, grilled aubergine, basil, extravirgin olive oil</h4>
+            <h4>tomato sauce, mozzarella, grilled zucchini, grilled aubergine, extravirgin olive oil , basil</h4>
+            <h5 class="text-center mt-3">100k</h5>
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Capricciosa</h3>
-            <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives</h4>
+            <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives, extravirgin olive oil, basil
+            </h4>
+            <h5 class="text-center mt-3">120k</h5>
+          </div>
+          <div class="col-12 mt-5">
+            <h3 class="pizze">Say "Cheese"</h3>
+            <h4>mozzarella, gorgonzola, taleggio, parmesan cheese, basil - no tomato sauce</h4>
+            <h5 class="text-center mt-3">115k</h5>
           </div>
           {{-- <div class="col-12 mt-5">
             <h3 class="pizze">Capricciosa</h3>
@@ -186,6 +215,7 @@
           <div class="col-12">
             <h3 class="pizze">Tiramisù</h3>
             <h4>italian savoiardi biscuits dipped in rich espresso with creamy mixture of mascarpone cheese and whipped eggs. Finished with a dusting of cocoa powder </h4>
+            <h5 class="text-center mt-3">65k</h5>
           </div>
           
           
@@ -198,6 +228,7 @@
           <div class="col-12">
             <h3 class="pizze">Fried Gnocchi with Nutella</h3>
             <h4>crispy fried pizza dough bites served with a rich Nutella sauce, creating a delightful mix of sweet and savory flavors.</h4>
+            <h5 class="text-center mt-3">65k</h5>
           </div>
           
           
@@ -211,6 +242,7 @@
           <div class="col-12">
             <h3 class="pizze">Pizza with Nutella</h3>
             <h4>A sweet twist on the classic pizza, featuring a crispy pizza crust topped generously with Nutella, perfect for dessert lovers.</h4>
+            <h5 class="text-center mt-3">60k</h5>
           </div>
           
           

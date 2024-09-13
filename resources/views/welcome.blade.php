@@ -3,13 +3,26 @@
     
     <header>
         <div class="headerImg ">
-            <img src="/img/header3.jpeg" alt="" class="imgHeader">
-            <h1 class="headerText pulse-animation text-center">Pizzeria & Restaurant</h1>
+            <div class="overlay"></div>
+            <img src="/img/trancio.jpg" alt="" class="imgHeader">
+            {{-- <h1 class="headerText pulse-animation text-center mt-5">Welcome to PUGLIA MIA Pizzeria</h1> --}}
+            
+            
             
         </div>
         
+        
     </header>
     
+    {{-- <script>
+        window.addEventListener('scroll', function() {
+          var scrollPos = window.scrollY; // Ottieni la posizione dello scroll
+          var imgHeader = document.querySelector('.imgHeader');
+          
+          // Trasla l'immagine verso il basso in base allo scroll
+          imgHeader.style.transform = 'translateY(' + scrollPos * 0.5 + 'px)';
+        });
+      </script> --}}
     
     
     {{-- <div class="container">
@@ -59,7 +72,7 @@
 
 
 
-<div class="container-fluid mt-5">
+<div class="container-fluid mt-5 ">
         <div class="row justify-content-center">
 
         {{-- <div class="col-5 col-md-3 d-md-block d-none">
@@ -69,6 +82,7 @@
         <div class="col-5 col-md-3 text-center flex-column d-flex justify-content-center">
 
             <h2>Puglia Mia</h2>
+            
             <h3 class="mt-3 ">Pizzeria & Restaurant</h3>
             <h3 class="mt-3 ">Gili Air</h3>
            

@@ -3,14 +3,14 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top p-0">
     <div class="container-fluid colorNav p-0 mb-0">
       
-      <a class="navbar-brand" href="#"><img src="/img/logo_ultimo.png" alt="" height="200px"></a>
+      <a class="navbar-brand" href="#"><img src="/img/logo_ultimo.png" alt="" height="120px"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="{{route('home')}}">Home</a>
+            <a class="nav-link" aria-current="page" href="{{route('home')}}">About Us</a>
           </li>
           
           <li class="nav-item">
@@ -38,7 +38,8 @@
   
   <header>
     <div class="headerImg ">
-      <img src="/img/header3.jpeg" alt="" class="imgHeader">
+      <div class="overlay"></div>
+      <img src="/img/trancio.jpg" alt="" class="imgHeader">
       <h1 class="headerText pulse-animation text-center ">Pizzeria & Restaurant</h1>
     </div>
   </header>
@@ -67,7 +68,7 @@
           
           <div class="col-12">
             <h3 class="pizze">Bruschetta Puglia Mia</h3>
-            <h4>roasted bread topped with mozzarella, tomatoes, burrata, parma ham, wild rocket, extravirgin olive oil, oregano
+            <h4>roasted bread topped with cherry tomatoes, burrata, parma ham, wild rocket, extravirgin olive oil, oregano
             </h4>
             <h5 class="text-center mt-3">65k</h5>
           </div>

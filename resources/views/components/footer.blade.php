@@ -51,7 +51,7 @@
         <!-- Grid column -->
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
-          <h6 class="text-uppercase fw-bold mb-4 mx-0 text-center">
+          <h6 class="text-uppercase fw-bold mb-4 mx-0 text-center testoFooter">
             <i class="fas fa-gem me-3"></i>Puglia Mia 
             <h6 class="text-center">Pizzeria & Restaurant</h6>
        
@@ -65,7 +65,7 @@
         <!-- Grid column -->
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase text-center fw-bold mb-4">
+          <h6 class="text-uppercase text-center fw-bold mb-4 testoFooter">
             Location
           </h6>
           <p  class="text-center">
@@ -79,12 +79,12 @@
         <!-- Grid column -->
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4 text-center">
+          <h6 class="text-uppercase fw-bold mb-4 text-center testoFooter">
             Opening Hours
           </h6>
           <p class="text-center">
            Monday - Sunday <br>
-           10.00 - 24.00
+           12.00 - 24.00
           </p>
         
         </div>
@@ -94,7 +94,7 @@
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
           <div id="contact">
-          <h6 class="text-uppercase fw-bold mb-4 text-center">Contact Us</h6>
+          <h6 class="text-uppercase fw-bold mb-4 text-center testoFooter">Contact Us</h6>
           </div>
         
             <i class="fas fa-envelope text-center"></i>

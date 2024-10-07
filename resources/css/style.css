@@ -1,5 +1,6 @@
 .colorNav{ 
-    background-color: #ECC273;
+    /* background-color: #ECC273; */
+    background-color: white;
     
     padding: 0px;
     padding-bottom: 0px;
@@ -13,6 +14,7 @@
 
 
 
+
 .imgHeader{
     height: 845px;
     width: 100%;
@@ -21,6 +23,7 @@
     background-repeat: no-repeat;
     object-fit: cover;
     background-attachment: fixed;
+    
    
     
 
@@ -32,10 +35,12 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 80%, rgb(255, 255, 255) 100%);
-    background-color: rgba(212, 163, 115, 0.203);
-  
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 90%, rgb(255, 255, 255) 100%);
+    /* background-color: rgba(212, 163, 115, 0.203);  */
+    background-color: rgba(0, 0, 0, 0.5); /* Aggiunge un'ombra sopra l'immagine */
 }
+  
+
 
 
 
@@ -43,58 +48,17 @@
 .headerImg{
     position: relative;
     text-align: center;
-    color: white;
+    color: rgb(213, 205, 205);
 }
 
 .headerText{
     position: absolute;
     top: 50%;
-    left: 30.5%;
+    
+    right: 33%;
     transform: translate(-50%, -50%);
   
 }
-
-
-
-
-
-
-/* .imgHeader {
-    height: 700px;
-    width: 100%;
-   
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    object-fit: cover;
-    position: relative;
-  }
-
-  .headerImg {
-    position: relative;
-    text-align: center;
-    color: white;
-    height: 700px; /* Altezza dell'immagine */
-  /* }
-
-  .headerImg .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 80%, rgb(255, 255, 255) 100%);
-  }
-
-  .headerText {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  } */ */
-
-
-
 
 
 
@@ -133,15 +97,10 @@
     }
     .headerText {
         font-size: 1.2em; /* Further reduce font size */
-        top: 60%; /* Adjust position if needed */
-        left: 10%; /* Adjust position if needed */
+        top: 45%; /* Adjust position if needed */
+        left: 28%; /* Adjust position if needed */
     }
 }
-
-
-
-
-
 
 
 
@@ -151,7 +110,12 @@ h1{
         font-size: 50px;
         letter-spacing: 8px;
         font-family: "Montserrat", sans-serif;
-        text-shadow: #AF3925 5px 0 10px;
+        /* text-shadow: #AF3925 5px 0 10px; */
+        
+}
+
+.nero{
+    text-shadow: black 3px 0 8px;
 }
 
  h3, h5, h6{
@@ -168,22 +132,6 @@ h2{
     color:  #AF3925
 }
 
-/* .fade-in{
-    animation-name: fadeIn;
-    animation-duration: 4s;
-    animation-delay: 0s;
-    
-}
-
-@keyframes fadeIn {
-    0%{
-        opacity: 0;
-    }
-    100%{
-        opacity: 1;
-
-    }
-} */
 
 .pulse-animation{
     animation: pulse-animate 10s infinite;
@@ -207,7 +155,7 @@ a.nav-link{
 
 
 a.nav-link:hover{
-    color: #925B32;
+    color: rgb(16, 114, 16);
 }
 
 
@@ -270,6 +218,7 @@ h4{
 
 .bi-instagram:hover{
     transform: scale(1.5);
+    color: rgb(16, 114, 16);
 }
 
 .bi-instagram:active{
@@ -304,4 +253,11 @@ transition: transform 0.2s;
 .testoFooter{
     color: #AF3925;
 }
+
+.custom-divider {
+    height: 2px; /* Altezza della linea */
+    background-color:#AF3925; /* Colore della linea */
+    margin: 10px 0; /* Margine sopra e sotto */
+    width: 100%; /* Larghezza della linea */
+  }
 

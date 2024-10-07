@@ -3,7 +3,7 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top p-0">
     <div class="container-fluid colorNav p-0 mb-0">
       
-      <a class="navbar-brand" href="#"><img src="/img/logo_ultimo.png" alt="" height="120px"></a>
+      <a class="navbar-brand" href="#"><img src="/img/logo_bianco.png" alt="" height="120px"></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -27,9 +27,9 @@
             <a href="https://www.instagram.com/pugliamiabali/"><i class="bi bi-instagram"></i></a>
           </li>
 
-          <li class="nav-item">
+          {{-- <li class="nav-item">
             <a href=""><i class="bi bi-geo-alt-fill"></i></a>
-          </li>
+          </li> --}}
         </ul>
       </div>
     </div>
@@ -39,8 +39,8 @@
   <header>
     <div class="headerImg ">
       <div class="overlay"></div>
-      <img src="/img/trancio.jpg" alt="" class="imgHeader">
-      <h1 class="headerText pulse-animation text-center ">Pizzeria & Restaurant</h1>
+      <img src="/img/pizzaiolo.jpg" alt="" class="imgHeader">
+      <h1 class="headerText pulse-animation text-center nero "></h1>
     </div>
   </header>
   
@@ -55,7 +55,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Bruschetta</h3>
-            <h4>roasted bread topped with cherry tomatoes, burrata, extravirgin olive oil, oregano</h4>
+            <h4>roasted bread topped with cherry tomatoes, mozzarella, extravirgin olive oil, oregano</h4>
             <h5 class="text-center mt-3">55k</h5>
           </div>
           
@@ -67,10 +67,10 @@
         <div class="row text-center">
           
           <div class="col-12">
-            <h3 class="pizze">Bruschetta Puglia Mia</h3>
-            <h4>roasted bread topped with cherry tomatoes, burrata, parma ham, wild rocket, extravirgin olive oil, oregano
+            <h3 class="pizze">Pizzotti Puglia Mia</h3>
+            <h4>fried dough square with cherry tomatoes, mozzarella, basil
             </h4>
-            <h5 class="text-center mt-3">65k</h5>
+            <h5 class="text-center mt-3">50k</h5>
           </div>
           
           
@@ -82,8 +82,8 @@
       <div class="col-12 col-md-3 custom-margin">
         <div class="row text-center">
           <div class="col-12">
-            <h3 class="pizze">Caprese</h3>
-            <h4>mozzarella, tomatoes, extravirgin olive oil , oregano</h4>
+            <h3 class="pizze">Veggie Crunchers</h3>
+            <h4>lightly battered and fried seasonal vegetables, crispy on the outside and tender on the inside</h4>
             <h5 class="text-center mt-3">55k</h5>
           </div>
           
@@ -130,9 +130,11 @@
             <h3 class="pizze"></h3>
           </div>
           <div class="col-12">
-            <h3 class="pizze">Panzerotto
+            <h3 class="pizze">Panzerotto Fried or Baked
             </h3>
-            <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives
+            <h4>folded pugliese pizza filled with mozzarella cheese and tomato sauce 
+               <br> (Fill it as you want!)
+              
             </h4>
             <h5 class="text-center mt-3">100k</h5>
           </div>
@@ -158,14 +160,14 @@
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Imperiale</h3>
-            <h4>tomato sauce, mozzarella, parma ham, parmesan flakes, wild rocket, cherry tomato, extravirgin olive oil</h4>
+            <h4>tomato sauce, mozzarella, smoked ham, parmesan flakes, wild rocket, cherry tomato, extravirgin olive oil</h4>
             <h5 class="text-center mt-3">115k</h5>
           </div>
-          <div class="col-12 mt-5 ">
+          {{-- <div class="col-12 mt-5 ">
             <h3 class="pizze">Puglia Mia</h3>
             <h4>mozzarella, fried aubergine, parmesan flakes, burratina on top , extravirgin olive oil, basil - no tomato sauce</h4>
             <h5 class="text-center mt-3">115k</h5>
-          </div>
+          </div> --}}
           {{-- <div class="col-12 mt-5 ">
             <h3 class="pizze">Calzone</h3>
             <h4>tomato sauce, mozzarella, smoked ham, mushrooms</h4>
@@ -207,6 +209,9 @@
       </div>
     </div>
   </div>
+
+
+  
   <div class="text-center mt-5 menu">DESSERTS</div>
   <div class="container-fluid">
     <div class="row justify-content-center mt-5 ms-0 me-0">
@@ -250,8 +255,95 @@
         </div>
       </div>
     </div>
+
+
+
+
+  
+  </div>
+
+
+  <div class="text-center mt-5 menu">DRINKS</div>
+  <div class="container-fluid">
+    <div class="row justify-content-center mt-5 ms-0 me-0">
+      <!-- Colonna 1 -->
+      <div class="col-12 col-md-3 custom-margin ">
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Water bottle</h3>
+            
+            <h5 class="text-center mt-3">10k</h5>
+          </div>
+          
+          
+        </div>
+      </div>
+      <!-- Colonna 2 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          
+          <div class="col-12">
+            <h3 class="pizze">Coca Cola</h3>
+            <h5 class="text-center mt-3">30k</h5>
+          </div>
+          
+          
+          
+          
+        </div>
+      </div>
+      <!-- Colonna 3 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          <div class="col-12">
+            <h3 class="pizze">Bintang Beer</h3>
+            <h5 class="text-center mt-3">40k</h5>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+
+
+
+
+  
+  </div>
+
+
+ 
+  <div class="container-fluid">
+    <div class="row justify-content-center mt-5 ms-0 me-0">
+      <!-- Colonna 1 -->
+     
+      <!-- Colonna 2 -->
+      <div class="col-12 col-md-3 custom-margin">
+        <div class="row text-center">
+          
+          <div class="col-12">
+            <h3 class="pizze">Juices</h3>
+            <h4>Watermelon, papaya, pineapple, banana, mango, dragon fruit</h4>
+            <h5 class="text-center mt-3">30k</h5>
+          </div>
+          
+          
+          
+          
+        </div>
+      </div>
+      <!-- Colonna 3 -->
+    
+    </div>
+
+
+
+
+  
   </div>
   
+
+
   
   
 </x-layout>

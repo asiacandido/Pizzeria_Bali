@@ -4,8 +4,11 @@
     <header>
         <div class="headerImg ">
             <div class="overlay"></div>
-            <img src="/img/trancio.jpg" alt="" class="imgHeader">
-            {{-- <h1 class="headerText pulse-animation text-center mt-5">Welcome to PUGLIA MIA Pizzeria</h1> --}}
+            <img src="/img/sfondo.jpg" alt="" class="imgHeader">
+            <h1 class="headerText pulse-animation text-center nero">Welcome to
+                <br>Puglia Mia Pizzeria <br> 
+            </h1>
+           
             
             
             
@@ -79,14 +82,14 @@
             <img src="/img/burratina.jpeg" alt="" class= rounded-circle height="400px" width="400px">
         </div> --}}
 
-        <div class="col-5 col-md-3 text-center flex-column d-flex justify-content-center">
+        {{-- <div class="col-5 col-md-3 text-center flex-column d-flex justify-content-center">
 
             <h2>Puglia Mia</h2>
             
             <h3 class="mt-3 ">Pizzeria & Restaurant</h3>
             <h3 class="mt-3 ">Gili Air</h3>
            
-        </div>
+        </div> --}}
 
 
 
@@ -99,7 +102,7 @@
         <div class="row justify-content-center">
             <div class="col-8 text-center mt-5 mb-5">
 
-                <h2 class="mb-5">Our Story</h2>
+                {{-- <h2 class="mb-5">Our Story</h2> --}}
                 <h4>We are an Italian couple from south of Italy, who fell absolutely in love with the breathtaking island of Gili Air during our vacation. Captivated by its beauty and charm, we felt inspired to bring a touch of Italy to this tropical paradise. <br>
 
                     <br> We dreamed of creating a small Italian restaurant that celebrates the freshest, locally-sourced ingredients. We wanted every bite to burst with incredible flavor, bringing joy and delight to each of our customers. <br>

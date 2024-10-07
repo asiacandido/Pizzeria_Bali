@@ -13,7 +13,7 @@
 
 
 <!-- Footer -->
-<footer class="text-center text-lg-start  text-muted" style="background-color: #ECC273;">
+<footer class="text-center text-lg-start  text-muted" style="background-color:white;">
   <!-- Section: Social media -->
   
     <!-- Left -->
@@ -44,6 +44,8 @@
   <!-- Section: Social media -->
 
   <!-- Section: Links  -->
+
+  <div class="custom-divider"></div>
   <section class="">
     <div class="container text-center text-md-start mt-5">
       <!-- Grid row -->
@@ -98,10 +100,10 @@
           </div>
         
             <i class="fas fa-envelope text-center"></i>
-           <p class="text-center"> pugliamiabali@gmail.com
+           <p class="text-center"> pugliamiagili24@gmail.com
           </p>
-          <p class="text-center"><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-          <p class="text-center"><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+          <p class="text-center"><i class="fas fa-phone me-3"></i>need delivery? Order Now via WhatsApp or call us! <br>+62 081946491876</p>
+        
         </div>
         <!-- Grid column -->
       </div>
@@ -111,10 +113,31 @@
   <!-- Section: Links  -->
 
   <!-- Copyright -->
-  <div class="text-center p-4" style="background-color:  #ECC273;">
+
+  
+
+  <br>
+  <br>
+  <br>
+
+  <div id="map mt-5" class="d-flex justify-content-center"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3947.48309125766!2d116.0824801!3d-8.3540447!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcddd30af4bc50f%3A0x623bf0377ca98bb7!2sChip%20%26%20Dip%20Resto!5e0!3m2!1sen!2sit!4v1727028046087!5m2!1sen!2sit" width="800" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+
+
+
+  <br>
+  <br>
+  <br>
+  <div class="text-center p-4" style="background-color: white ;">
+
+
     © 2024 Copyright:
-    <a class="text-reset fw-bold">Puglia Mia | All rights reserved</a>
-  </div>
+    <a class="text-reset fw-bold">Puglia Mia Pizzeria Gili Air | All rights reserved</a>
+
+    <br>
+    <br>
+    <br>
+
+
   <!-- Copyright -->
 </footer>
 <!-- Footer -->

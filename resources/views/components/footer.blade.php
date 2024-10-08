@@ -102,7 +102,7 @@
             <i class="fas fa-envelope text-center"></i>
            <p class="text-center"> pugliamiagili24@gmail.com
           </p>
-          <p class="text-center"><i class="fas fa-phone me-3"></i>need delivery? Order Now via WhatsApp or call us! <br>+62 081946491876</p>
+          <p class="text-center"><i class="fas fa-phone me-3 footer"></i>need delivery? Order Now via WhatsApp or call us! <br>+62 081946491876</p>
         
         </div>
         <!-- Grid column -->

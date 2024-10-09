@@ -60,7 +60,7 @@
         
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0"> <!-- New UL for icons -->
           <li class="nav-item">
-            <a href="https://www.instagram.com/pugliamiabali/"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.instagram.com/pugliamia_pizzeria_giliair/"><i class="bi bi-instagram"></i></a>
           </li>
 
           {{-- <ul class="nav">

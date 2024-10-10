@@ -55,7 +55,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Bruschetta</h3>
-            <h4>Toasted pizza slices topped with cherry tomatoes, mozzarella, extravirgin olive oil, oregano</h4>
+            <h4>toasted pizza slices topped with cherry tomatoes, mozzarella, extravirgin olive oil, oregano</h4>
             <h5 class="text-center mt-3">55k</h5>
           </div>
           
@@ -220,7 +220,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Tiramisù</h3>
-            <h4>Crisp biscuits soaked in espresso, layered with a creamy mixture of mascarpone cheese and whipped eggs and finished with a touch of cocoa powder </h4>
+            <h4>crisp biscuits soaked in espresso, layered with a creamy mixture of mascarpone cheese and whipped eggs and finished with a touch of cocoa powder </h4>
             <h5 class="text-center mt-3">65k</h5>
           </div>
           
@@ -247,7 +247,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Pizza with Nutella</h3>
-            <h4>A sweet twist on the classic pizza, featuring a crispy pizza crust topped generously with Nutella, perfect for dessert lovers.</h4>
+            <h4>a sweet twist on the classic pizza, featuring a crispy pizza crust topped generously with Nutella, perfect for dessert lovers.</h4>
             <h5 class="text-center mt-3">60k</h5>
           </div>
           

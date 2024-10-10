@@ -55,7 +55,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Bruschetta</h3>
-            <h4>roasted bread topped with cherry tomatoes, mozzarella, extravirgin olive oil, oregano</h4>
+            <h4>Toasted pizza slices topped with cherry tomatoes, mozzarella, extravirgin olive oil, oregano</h4>
             <h5 class="text-center mt-3">55k</h5>
           </div>
           
@@ -220,7 +220,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Tiramisù</h3>
-            <h4>italian savoiardi biscuits dipped in rich espresso with creamy mixture of mascarpone cheese and whipped eggs. Finished with a dusting of cocoa powder </h4>
+            <h4>Crisp biscuits soaked in espresso, layered with a creamy mixture of mascarpone cheese and whipped eggs and finished with a touch of cocoa powder </h4>
             <h5 class="text-center mt-3">65k</h5>
           </div>
           

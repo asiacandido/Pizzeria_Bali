@@ -113,7 +113,7 @@
                     <br>
                     <br>
                      
-                     <br>At the heart of our menu is our signature sourdough pizza, lovingly baked to perfection in a traditional wood-fired oven. This time-honored method gives our pizzas a unique, smoky flavor and a delightful, crispy crust that sets them apart from the rest.
+                     <br>At the heart of our menu is our signature sourdough pizza, baked to perfection with care. Our method creates a deliciously crispy crust and preserves the rich, authentic flavors that make each bite unforgettable.
                      
                      Our dedicated staff shares our passion for exceptional customer service, ensuring that every visit to our restaurant is a truly special experience. From the warm welcome at the door to the attentive care throughout your meal, we strive to make you feel like a treasured member of our family. <br>
 

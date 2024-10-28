@@ -6,7 +6,7 @@
             <div class="overlay"></div>
             <img src="/img/sfondo.jpg" alt="" class="imgHeader">
             <h1 class="headerText pulse-animation text-center nero">Welcome to
-                <br>Puglia Mia Pizzeria <br> 
+                 <span>Puglia Mia </span> Pizzeria <br> 
             </h1>
            
             

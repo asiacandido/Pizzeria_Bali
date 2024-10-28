@@ -122,7 +122,7 @@
 
   {{-- mappa --}}
 
-  {{-- <div id="map mt-5" class="d-flex justify-content-center"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3947.48309125766!2d116.0824801!3d-8.3540447!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcddd30af4bc50f%3A0x623bf0377ca98bb7!2sChip%20%26%20Dip%20Resto!5e0!3m2!1sen!2sit!4v1727028046087!5m2!1sen!2sit" width="800" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div> --}}
+  <div id="map mt-5" class="d-flex justify-content-center">  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3947.4784817740765!2d116.08159211033906!3d-8.354500291647671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdddb5dfe9b57f%3A0x11e936e48696ea12!2sPuglia%20Mia%20Pizzeria!5e0!3m2!1sen!2sit!4v1730113455717!5m2!1sen!2sit" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 
 
 

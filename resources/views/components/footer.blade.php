@@ -86,7 +86,7 @@
           </h6>
           <p class="text-center">
            Monday - Sunday <br>
-           12:00 - 22:30
+           13:30 - 22:30
           </p>
         
         </div>

@@ -4,7 +4,7 @@
     <header>
         <div class="headerImg ">
             <div class="overlay"></div>
-            <img src="/img/sfondo.jpg" alt="" class="imgHeader">
+            <img src="/img/pizzaiolo.jpg" alt="" class="imgHeader">
             <h1 class="headerText pulse-animation text-center nero"><br> 
             </h1>
            

@@ -304,6 +304,7 @@ transition: transform 0.2s;
     .navbar-toggler {
       position: relative;
       margin: 0 auto;
+      left: 0.5%;
     }
   
     /* Centrare i link nel menu mobile */

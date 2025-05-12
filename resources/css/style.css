@@ -263,16 +263,41 @@ transition: transform 0.2s;
     width: 100%; /* Larghezza della linea */
   }
 
-  .navbar-toggler {
-    position: absolute;
-    top: 30px; /* Regola la posizione verticale */
-    right: 20px; /* Distanza da destra, regolato per allontanarla dalla parte destra */
-  }
+  @media (max-width: 992px) {
+    .container-fluid {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
   
-  /* Media query per dispositivi molto piccoli (ad esempio, schermi con larghezza <= 576px) */
-  @media (max-width: 576px) {
+    .navbar-brand {
+      position: absolute;
+      left: 0;
+      padding-left: 10px;
+    }
+  
     .navbar-toggler {
-      right: 20px; /* Spostamento leggermente più a sinistra */
+      position: relative;
+      margin: 0 auto;
     }
   }
+
+  @media (max-width: 992px) {
+    .navbar-collapse {
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .navbar-nav .nav-item {
+      padding: 10px 0;
+    }
+  }
+  
   

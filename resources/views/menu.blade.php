@@ -56,7 +56,7 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Bruschetta</h3>
-            <h4>toasted pizza slices topped with cherry tomatoes, mozzarella, extravirgin olive oil, oregano</h4>
+            <h4>toasted pizza slices topped with cherry tomatoes, parmesan cheese, extravirgin olive oil, oregano</h4>
             <h5 class="text-center mt-3">55k</h5>
           </div>
           
@@ -69,7 +69,7 @@
           
           <div class="col-12">
             <h3 class="pizze">Pizzotti Puglia Mia</h3>
-            <h4>fried dough square with cherry tomatoes, mozzarella, basil
+            <h4>fried dough square with cherry tomatoes, parmesan cheese, basil
             </h4>
             <h5 class="text-center mt-3">50k</h5>
           </div>
@@ -124,7 +124,7 @@
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Prosciutto e Funghi</h3>
-            <h4>tomato sauce, mozzarella, smoked ham, mushrooms, extravirgin olive oil, basil</h4>
+            <h4>tomato sauce, mozzarella, smoked ham, mushrooms, extravirgin olive oil, basil (NO HALAL)</h4>
             <h5 class="text-center mt-3">110k</h5>
           </div>
           <div class="col-12 mt-5">
@@ -139,10 +139,7 @@
             </h4>
             <h5 class="text-center mt-3">100k</h5>
           </div>
-          {{-- <div class="col-12 mt-5">
-            <h3 class="pizze">Caprese</h3>
-            <h4>tomato sauce, mozzarella, cured ham, parmesan cheese</h4>
-          </div> --}}
+          
         </div>
       </div>
       <!-- Colonna 2 -->
@@ -156,12 +153,12 @@
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Contadina</h3>
-            <h4>cherry tomato sauce, fresh cherry tomatoes, green pesto, shredded mozzarella, extravirgin olive oil, basil</h4>
+            <h4>tomato sauce, fresh cherry tomatoes, green pesto, mozzarella, extravirgin olive oil, basil</h4>
             <h5 class="text-center mt-3">100k</h5>
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Imperiale</h3>
-            <h4>tomato sauce, mozzarella, smoked ham, parmesan flakes, wild rocket, cherry tomato, extravirgin olive oil</h4>
+            <h4>tomato sauce, mozzarella, smoked ham, parmesan flakes, wild rocket, cherry tomato, extravirgin olive oil (NO HALAL)</h4>
             <h5 class="text-center mt-3">115k</h5>
           </div>
           {{-- <div class="col-12 mt-5 ">
@@ -181,13 +178,13 @@
         <div class="row text-center">
           <div class="col-12">
             <h3 class="pizze">Diavola</h3>
-            <h4>tomato sauce, mozzarella, spicy salami, extravirgin olive oil, basil
+            <h4>tomato sauce, mozzarella, spicy salami, extravirgin olive oil, basil (NO HALAL)
             </h4>
             <h5 class="text-center mt-3">80k</h5>
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Stay Healthy</h3>
-            <h4>tomato sauce, mozzarella, grilled zucchini, grilled aubergine, extravirgin olive oil , basil</h4>
+            <h4>mozzarella, grilled zucchini, grilled aubergine, cherry tomatoes, extravirgin olive oil , basil (with tomato sauce or without tomato sauce)</h4>
             <h5 class="text-center mt-3">100k</h5>
           </div>
           <div class="col-12 mt-5">
@@ -198,20 +195,23 @@
           </div>
           <div class="col-12 mt-5">
             <h3 class="pizze">Say "Cheese"</h3>
-            <h4>mozzarella, gorgonzola, taleggio, parmesan cheese, basil - no tomato sauce</h4>
+            <h4>mozzarella, gorgonzola, taleggio, parmesan cheese, basil - no tomato sauce (white pizza)</h4>
             <h5 class="text-center mt-3">115k</h5>
           </div>
           {{-- <div class="col-12 mt-5">
             <h3 class="pizze">Capricciosa</h3>
             <h4>tomato sauce, mozzarella, mushrooms, artichokes, smoked ham, black olives</h4>
-          </div> --}}
+          </div> --}} 
           
         </div>
       </div>
     </div>
   </div>
 
-
+<h5 class="text-center mt-1 ">add your extra toppings +10k</h5>
+<br>
+<br>
+<br>
   
   <div class="text-center mt-5 menu">DESSERTS</div>
   <div class="container-fluid">

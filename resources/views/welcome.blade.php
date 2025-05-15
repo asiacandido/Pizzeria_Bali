@@ -102,24 +102,27 @@
             <div class="col-8 text-center mt-5 mb-5">
 
                 {{-- <h2 class="mb-5">Our Story</h2> --}}
-                <h4>We are an Italian couple from south of Italy, who fell absolutely in love with the breathtaking island of Gili Air during our vacation. Captivated by its beauty and charm, we felt inspired to bring a touch of Italy to this tropical paradise. <br>
+                <h3>Who we are</h3> <br>
+                <h4>We’re a couple from the sunny South of Italy, where food is more than just a meal. It’s love, family, and laughter at the table. With hearts full of passion and hands full of dough, we’ve brought a slice of our homeland to this corner of the world. Expect warmth, smiles, and a little southern charm in every bite! <br>
+                    <br>
 
-                    <br> We dreamed of creating a small Italian restaurant that celebrates the freshest, locally-sourced ingredients. We wanted every bite to burst with incredible flavor, bringing joy and delight to each of our customers. <br>
-                     
-                    <br> So .. One sunny afternoon, while out cycling, we stumbled upon a quaint little spot that felt just perfect. Without a moment's hesitation, we knew this was where our dream would come to life. And so, the magic began! <br>
+                   <br> <h3>Our Team</h3>
+
+                    <h4><br> Behind every great pizza is a team that truly cares. Our small but mighty crew shares a common goal: crafting pizza with soul. From hand-stretched dough to the last sprinkle of basil, everything is done with dedication, heart, and a dash of good humor. Because great food starts with happy people. <br> </h4>
+                     <br>
+                    <br> <h3>Our Promise    </h3>
+                    <h4><br>We don’t cut corners. From our carefully sourced ingredients to our slow-fermented dough, every element of our pizza is chosen for maximum flavor and freshness. Our tomato sauce is made from ripe, sun-kissed tomatoes, bursting with natural sweetness and vibrant aroma. It’s the heart and soul of every pizza we bake. We believe in quality over quantity, flavor over flash, and above all, we believe you deserve to eat something made with love. <br></h4>
 
                     <br>
                     <br>
                     <br>
                      
-                     <br>At the heart of our menu is our signature sourdough pizza, baked to perfection with care. Our method creates a deliciously crispy crust and preserves the rich, authentic flavors that make each bite unforgettable.
-                     
-                     Our dedicated staff shares our passion for exceptional customer service, ensuring that every visit to our restaurant is a truly special experience. From the warm welcome at the door to the attentive care throughout your meal, we strive to make you feel like a treasured member of our family. <br>
+                    
 
                      <br>
                      <br>
                      
-                     <br>Join us at our cozy restaurant, where every dish is crafted with love and passion, transporting you straight to Italy with every bite!</h4>
+                     <h4><br>We can’t wait to welcome you to our pizzeria!</h4>
 
             </div>
         </div>

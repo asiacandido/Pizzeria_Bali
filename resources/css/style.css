@@ -136,6 +136,9 @@ h2{
     color:  #AF3925
 }
 
+h3{
+    color: rgb(16, 114, 16);
+}
 
 .pulse-animation{
     animation: pulse-animate 10s infinite;

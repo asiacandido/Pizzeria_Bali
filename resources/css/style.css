@@ -430,3 +430,25 @@ body {
     color: #AF3925;
     font: 400 1.5em "Montserrat", sans-serif;
   } 
+
+
+   /* sezione galleria  */
+
+ .gallery {
+  text-align: center; /* Centra il titolo */
+  margin: 20px 0;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 colonne */
+  gap: 15px; /* Spazio tra le immagini */
+  padding: 10px;
+}
+
+.gallery-item img {
+  width: 100%; /* Rende l'immagine responsiva */
+  height: auto; /* Mantiene le proporzioni */
+  border-radius: 8px; /* Angoli arrotondati */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera */
+}

@@ -22,6 +22,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#contact">Contacts</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#gallery">Gallery</a>
+          </li>
         </ul>
   
         <!-- Icona Instagram a destra -->
@@ -568,7 +571,7 @@
         </div>
 
         
-
+        <h6 class="text-center mt-3">Price do not include 10% government tax and 5% service charge (which helps supports our local team). Grazie!</h6>
         
       </div>
   

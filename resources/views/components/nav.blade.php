@@ -20,6 +20,9 @@
         <li class="nav-item">
           <a class="nav-link" href="#contact">Contacts</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#gallery">Gallery</a>
+        </li>
       </ul>
 
       <!-- Icona Instagram a destra -->

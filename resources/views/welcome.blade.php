@@ -122,11 +122,86 @@
                      <br>
                      <br>
                      
-                     <h4><br>We can’t wait to welcome you to our pizzeria!</h4>
+                     <h4><br>We can’t wait to welcome you to our Italian Restaurant!</h4>
 
             </div>
         </div>
 
+    
+    {{-- GALLERIA IMMAGINI  --}}
+            
+    <div id="gallery">
+        <div class="gallery">
+            <h5 class="mt-5 mb-4"></h5>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="/img/basmin.JPEG" alt="Description 1">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/orecchiette.JPEG" alt="Description 2">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/orecchietta.JPEG" alt="Description 3">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/orecchiette1.JPEG" alt="Description 4">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/impasto.JPEG" alt="Description 5">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/capricciosa.JPEG" alt="Description 6">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/rucola.JPEG" alt="Description 7">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/cavatelli2.JPEG" alt="Description 8">
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="gallery">
+             <!-- Links -->
+          <div id="contact">
+            <h5 class="mt-5 mb-4"></h5>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="/img/tomato.JPEG" alt="Description 1">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/parmigiana.JPEG" alt="Description 2">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/tiramisu.JPG" alt="Description 3">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/alici.JPEG" alt="Description 4">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/tuna.JPEG" alt="Description 5">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/cream.JPEG" alt="Description 6">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/sauce.JPEG" alt="Description 7">
+                </div>
+                <div class="gallery-item">
+                    <img src="/img/cima.JPEG" alt="Description 8">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
     
     
     

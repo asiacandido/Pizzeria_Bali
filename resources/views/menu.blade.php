@@ -145,9 +145,9 @@
  
 
   <div class="text-center mt-5 menu">HANDMADE PASTA</div>
-  <h4 class="text-center mt-3">Our handmade pasta is inspired by the timeless traditions of Puglia in Southern Italy. Each shape is crafted with care, following recipes passed down through generations ... a celebration of simple ingredients, family heritage, and the rich culinary soul of Italy. From our kitchen to your table, an authentic taste of 
+  <h4 class="text-center mt-3">Our handmade pasta is inspired by the timeless traditions of Puglia in Southern Italy. Each shape is crafted with care, following recipes passed down through generations, a celebration of simple ingredients, family heritage, and the rich culinary soul of Italy. Its texture is slightly more rustic and firm than classic pasta, offering a fuller, more satisfying bite that pairs beautifully with bold, hearty sauces. From our kitchen to your table, an authentic taste of home.
     <br>
-    <br>Orecchiette are a signature pasta from Puglia, shaped like little ears and handmade using traditional methods. Their curved surface holds sauces beautifully, offering a truly regional experience.
+    <br>Orecchiette - A signature pasta from Puglia, shaped like little ears and handmade using traditional methods. Their curved surface holds sauces beautifully, offering a truly regional experience.
 
     <br>
     <br>
@@ -376,8 +376,20 @@
     </div>
   </div>
 
-<h5 class="text-center mt-1 ">add your extra toppings +10k</h5>
-<h5 class="text-center mt-1 "></h5>
+<h5 class="text-center mt-1 ">Add your extra toppings</h5>
+<h6 class="text-center mt-1 ">Mozzarella +15K</h6>
+<h6 class="text-center mt-1 ">Parmesan Cheese +20K</h6>
+<h6 class="text-center mt-1 ">Blue Cheese +15K</h6>
+<h6 class="text-center mt-1 ">Taleggio +20K</h6>
+<h6 class="text-center mt-1 ">Salami +20KK</h6>
+<h6 class="text-center mt-1 ">Smoked Ham +20K</h6>
+<h6 class="text-center mt-1 ">Pesto +12K</h6>
+<h6 class="text-center mt-1 ">vegetables +10K</h6>
+<h6 class="text-center mt-1 ">Anchovies +20K</h6>
+<h6 class="text-center mt-1 ">Wild Rocket +12K</h6>
+<h6 class="text-center mt-1 ">Artichokes +20K</h6>
+<h6 class="text-center mt-1 ">Black Olives +10K</h6>
+<h6 class="text-center mt-1 ">Tuna Chunks +20K</h6>
 <br>
 <br>
 <br>

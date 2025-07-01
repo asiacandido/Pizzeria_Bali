@@ -136,28 +136,28 @@
             <h5 class="mt-5 mb-4"></h5>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/img/tomato.JPEG" alt="Description 1" loading="lazy">
+                    <img src="/img/tomato.webp" alt="Description 1" loading="lazy">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/orecchiette.JPEG" alt="Description 2" loading="lazy">
+                    <img src="/img/orecchiette.webp" alt="Description 2" loading="lazy">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/orecchietta.JPEG" alt="Description 3" loading="lazy">
+                    <img src="/img/orecchietta.webp" alt="Description 3" loading="lazy">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/alici.JPEG" alt="Description 4" loading="lazy">
+                    <img src="/img/alici.webp" alt="Description 4" loading="lazy">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/tiramisu.JPG" alt="Description 5" loading="lazy">
+                    <img src="/img/tiramisu.webp" alt="Description 5" loading="lazy">
                 </div>
                 <div class="gallery-item">
                     <img src="/img/capricciosa.JPEG" alt="Description 6" loading="lazy">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/parmigiana.JPEG" alt="Description 7" loading="lazy">
+                    <img src="/img/parmigiana.webp" alt="Description 7" loading="lazy">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/cavatelli2.JPEG" alt="Description 8" loading="lazy">
+                    <img src="/img/cavatelli.webp" alt="Description 8" loading="lazy">
                 </div>
             </div>
         </div>

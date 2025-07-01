@@ -130,12 +130,13 @@
     
     {{-- GALLERIA IMMAGINI  --}}
             
-    <div id="gallery">
+    
         <div class="gallery">
+            <div id="gallery">
             <h5 class="mt-5 mb-4"></h5>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="/img/basmin.JPEG" alt="Description 1">
+                    <img src="/img/tomato.JPEG" alt="Description 1">
                 </div>
                 <div class="gallery-item">
                     <img src="/img/orecchiette.JPEG" alt="Description 2">
@@ -144,16 +145,16 @@
                     <img src="/img/orecchietta.JPEG" alt="Description 3">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/orecchiette1.JPEG" alt="Description 4">
+                    <img src="/img/alici.JPEG" alt="Description 4">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/impasto.JPEG" alt="Description 5">
+                    <img src="/img/tiramisu.JPG" alt="Description 5">
                 </div>
                 <div class="gallery-item">
                     <img src="/img/capricciosa.JPEG" alt="Description 6">
                 </div>
                 <div class="gallery-item">
-                    <img src="/img/rucola.JPEG" alt="Description 7">
+                    <img src="/img/parmigiana.JPEG" alt="Description 7">
                 </div>
                 <div class="gallery-item">
                     <img src="/img/cavatelli2.JPEG" alt="Description 8">
@@ -162,10 +163,9 @@
         </div>
 
 
-
-        <div class="gallery">
+        {{-- <div class="gallery">
              <!-- Links -->
-          <div id="contact">
+          <div id="gallery">
             <h5 class="mt-5 mb-4"></h5>
             <div class="gallery-grid">
                 <div class="gallery-item">
@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     
     
     

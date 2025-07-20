@@ -108,7 +108,7 @@
 
                    <br> <h3>Our Team</h3>
 
-                    <h4><br> Behind every great pizza is a team that truly cares. Our small but mighty crew shares a common goal: crafting pizza with soul. From hand-stretched dough to the last sprinkle of basil, everything is done with dedication, heart, and a dash of good humor. Because great food starts with happy people. <br> </h4>
+                    <h4><br> Behind every great dish is a team that pours heart into every step. Our small but passionate crew shares one goal: crafting honest, soulful food inspired by our roots. From hand-stretched dough for our pizzas to homemade pasta, everything is prepared with dedication, care, and a pinch of joy. We believe that good food starts with good people — and a love for tradition you can taste in every bite. <br> </h4>
                      <br>
                     <br> <h3>Our Promise    </h3>
                     <h4><br>We don’t cut corners. From our carefully sourced ingredients to our slow-fermented dough, every element of our pizza is chosen for maximum flavor and freshness. Our tomato sauce is made from ripe, sun-kissed tomatoes, bursting with natural sweetness and vibrant aroma. It’s the heart and soul of every pizza we bake. We believe in quality over quantity, flavor over flash, and above all, we believe you deserve to eat something made with love. <br></h4>

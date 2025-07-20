@@ -148,9 +148,12 @@
  
 
   <div class="text-center mt-5 menu">HANDMADE PASTA</div>
-  <h4 class="text-center mt-3">Our handmade pasta is inspired by the timeless traditions of Puglia in Southern Italy. Each shape is crafted with care, following recipes passed down through generations, a celebration of simple ingredients, family heritage, and the rich culinary soul of Italy. Its texture is slightly more rustic and firm than classic pasta, offering a fuller, more satisfying bite that pairs beautifully with bold, hearty sauces. From our kitchen to your table, an authentic taste of home.
+  <h4 class="text-center mt-3">Our handmade pasta is freshly prepared daily by our team, following the timeless traditions of Puglia in Southern Italy.
+    Each shape is crafted with care, using recipes passed down through generations. A celebration of simple ingredients, family heritage, and the rich culinary soul of Italy.
+    This Pasta is slightly more rustic and firm than typical egg or industrial pasta. If you’ve never tried before, the texture may feel different, and that’s exactly what makes it special.
+    It offers a fuller, more authentic bite that pairs perfectly with hearty sauce.
     <br>
-    <br>Orecchiette - A signature pasta from Puglia, shaped like little ears and handmade using traditional methods. Their curved surface holds sauces beautifully, offering a truly regional experience.
+    <br>This iconic pasta from Puglia takes its name from its unique “little ear” shape. The ridged surface and concave form make it perfect for catching sauces, delivering flavour in every bite.
 
     <br>
     <br>
@@ -536,7 +539,7 @@
             <div class="col-12">
               <h3 class="pizze">Aperol or Campari Spritz</h3>
               
-              <h5 class="text-center mt-3">85k</h5>
+              <h5 class="text-center mt-3">100k</h5>
             </div>
             
             

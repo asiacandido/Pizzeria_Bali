@@ -51,7 +51,7 @@
   
   
   
-  <div class="text-center mt-5 menu">STARTER</div>
+  <div class="text-center mt-5 menu">STARTERS</div>
   <div class="container-fluid">
     <div class="row justify-content-center mt-5 ms-0 me-0">
       <!-- Colonna 1 -->
@@ -105,8 +105,8 @@
       <div class="col-12 col-md-3 custom-margin ">
         <div class="row text-center">
           <div class="col-12">
-            <h3 class="pizze">Polpette della Nonna</h3>
-            <h4>Crispy fried meatballs served on a fresh bed of wild rocket and cherry tomatoes (halal)</h4>
+            <h3 class="pizze">Cartoccio della Nonna</h3>
+            <h4>Golden-fried Italian meatballs just like nonna used to make, served in a rustic paper cone (halal)</h4>
             <h5 class="text-center mt-3">75k</h5>
           </div>
           
@@ -147,7 +147,7 @@
 
  
 
-  <div class="text-center mt-5 menu">HANDMADE PASTA</div>
+  <div class="text-center mt-5 menu">HANDMADE PASTA 200gr</div>
   <h4 class="text-center mt-3">Our handmade pasta is freshly prepared daily by our team, following the timeless traditions of Puglia in Southern Italy.
     Each shape is crafted with care, using recipes passed down through generations. A celebration of simple ingredients, family heritage, and the rich culinary soul of Italy.
     This Pasta is slightly more rustic and firm than typical egg or industrial pasta. If you’ve never tried before, the texture may feel different, and that’s exactly what makes it special.
@@ -383,19 +383,23 @@
   </div>
 
 <h5 class="text-center mt-1 ">Add your extra toppings</h5>
-<h6 class="text-center mt-1 ">Mozzarella +15K</h6>
+<h6 class="text-center mt-1 ">Mozzarella +20K</h6>
 <h6 class="text-center mt-1 ">Parmesan Cheese +20K</h6>
-<h6 class="text-center mt-1 ">Blue Cheese +15K</h6>
+<h6 class="text-center mt-1 ">Blue Cheese +20K</h6>
 <h6 class="text-center mt-1 ">Taleggio +20K</h6>
-<h6 class="text-center mt-1 ">Salami +20KK</h6>
+<h6 class="text-center mt-1 ">Salami +20K</h6>
 <h6 class="text-center mt-1 ">Smoked Ham +20K</h6>
 <h6 class="text-center mt-1 ">Pesto +12K</h6>
-<h6 class="text-center mt-1 ">vegetables +10K</h6>
+<h6 class="text-center mt-1 ">Vegetables +10K</h6>
+<h6 class="text-center mt-1 ">Mashrooms +10K</h6>
 <h6 class="text-center mt-1 ">Anchovies +20K</h6>
-<h6 class="text-center mt-1 ">Wild Rocket +12K</h6>
+<h6 class="text-center mt-1 ">Wild Rocket +15K</h6>
 <h6 class="text-center mt-1 ">Artichokes +20K</h6>
 <h6 class="text-center mt-1 ">Black Olives +10K</h6>
 <h6 class="text-center mt-1 ">Tuna Chunks +20K</h6>
+<h6 class="text-center mt-1 ">Onion +20K</h6>
+<h6 class="text-center mt-1 ">Tomato Sauce +20K</h6>
+<h6 class="text-center mt-1 ">Polpette +40K</h6>
 <br>
 <br>
 <br>
